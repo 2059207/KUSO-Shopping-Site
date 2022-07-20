@@ -1,0 +1,191 @@
+@charset "utf-8";
+
+h1 {
+    background-color: antiquewhite;
+}
+
+h2 {
+    background-color: antiquewhite;
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+span.title {
+    font-family: Comic Sans MS;
+    font-size: 50px;
+}
+
+#menu {
+    list-style: none;
+    overflow: hidden;
+}
+
+#menu li {
+    width: 25%;
+    text-align: center;
+    background-color: #333;
+    float: left;
+    height: 50px;
+    line-height: 50px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    padding: 20px;
+}
+
+#menu li a:hover {
+    color: rgb(25, 149, 206);
+}
+
+div center p {
+    padding: 150px;
+    height: 70px;
+    padding: auto;
+    letter-spacing: 0.1em;
+}
+
+body {
+    background-color: rgba(199, 196, 196, 0.635);
+    background-size: cover;
+
+}
+
+ul {
+    list-style: none;
+}
+
+
+.setu {
+    background-color: rgba(255, 237, 197, 0.397);
+}
+
+#name {
+    margin-left: 110px;
+    margin-bottom: 10px;
+}
+
+#kenmei {
+    margin-left: 110px;
+    margin-bottom: 10px;
+}
+
+.content {
+    position: relative;
+}
+
+.content-label {
+    top: 0;
+    left: 0;
+}
+
+#content {
+    margin-top: 7px;
+    margin-left: 150px;
+    height: 200px;
+    width: 350px;
+}
+
+.button {
+    margin-top: 30px;
+    width: 550px;
+    text-align: center;
+}
+
+.button {
+    width: 130px;
+
+    border: none;
+    background-color: skyblue;
+    font-size: 113%;
+    font-family: MS ゴシック;
+    margin-top: 30px;
+    width: 550px;
+    text-align: center;
+}
+
+*/ .btn-submit {
+    background-color: #4c586f;
+    border: 1px solid #4c586f;
+    color: #fff;
+}
+
+.btn-gray {
+    border: 1px solid #3e3e3b;
+    color: #3e3e3b;
+}
+
+.btn-blue {
+    background-color: #4a80d6;
+    border: 1px solid #4a80d6;
+    color: #fff;
+    margin: 0;
+}
+
+.register {
+    border: 1px solid #ebeced;
+    text-align: center;
+}
+
+.itemlist ul:after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.itemlist ul li {
+    display: block;
+    float: left;
+    width: 30%;
+    margin: 10px 0;
+}
+
+.itemlist ul li:nth-child(3n-1) {
+    margin: 10px 5%;
+}
+
+
+
+.item-form {
+    float: right;
+    margin-top: 15px;
+}
+
+.item-form input {
+    width: 20px;
+    padding: 0 5px;
+    text-align: right;
+}
+
+.itemlist {
+    text-align: center;
+}
+
+span.CART {
+    font-family: Comic Sans MS;
+    font-size: 50px;
+}
+
+span.question {
+    font-size: 40px;
+}
+
+span.page {
+    font-family: "Hiragino Kaku Gothic ProN";
+    font-size: 40px;
+}
+
+p a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
